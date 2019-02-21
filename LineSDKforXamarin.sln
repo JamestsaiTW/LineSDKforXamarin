@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineSDK.Xamarin.Droid.BindingLibrary", "LineSDK.Android.BindingLibrary\LineSDK.Xamarin.Droid.BindingLibrary.csproj", "{0572477B-9955-4868-A39C-D4CE3E65635F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineSDK.Xamarin.Droid.Sample", "LineSDK.Xamarin.Droid.Sample\LineSDK.Xamarin.Droid.Sample.csproj", "{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0572477B-9955-4868-A39C-D4CE3E65635F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0572477B-9955-4868-A39C-D4CE3E65635F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0572477B-9955-4868-A39C-D4CE3E65635F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0572477B-9955-4868-A39C-D4CE3E65635F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDEED24-B259-4FB0-88EB-4A8D45A26FBF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E11001-852E-4DC1-94E3-55AF61AEEADA}
+	EndGlobalSection
+EndGlobal
